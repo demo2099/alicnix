@@ -19,7 +19,7 @@ stream {
                                                         # SSL，区域大小为10MB
         ssl_session_timeout 10m;                        # SSL TCP会话缓存超时时间为10分钟
         proxy_protocol    on; # 开启proxy_protocol获取真实ip
-        proxy_pass        127.0.0.1:23344; # 后端Trojan监听端口
+        proxy_pass        127.0.0.1:23342; # 后端Trojan监听端口
     }
 }
 http {
