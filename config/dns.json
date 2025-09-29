@@ -1,12 +1,13 @@
-{    "hosts": {
-      "geosite:netflix": "138.2.89.178",
-      "geosite:disney": "138.2.89.178",
-      "geosite:primevideo": "138.2.89.178"
-    },
+{
   "servers": [
     "1.1.1.1",
     "8.8.8.8",
-    "localhost"
+    "localhost",
+    {
+      "address": "138.2.89.178",
+      "port": 53,
+      "domains": ["geosite:netflix"]
+    }
   ],
   "tag": "dns_inbound"
 }
