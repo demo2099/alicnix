@@ -1,7 +1,7 @@
 {    "hosts": {
-      "geosite:netflix": "103.229.54.201",
-      "geosite:disney": "103.229.54.201",
-      "geosite:primevideo": "103.229.54.201"
+      "geosite:netflix": "138.2.89.178",
+      "geosite:disney": "138.2.89.178",
+      "geosite:primevideo": "138.2.89.178"
     },
   "servers": [
     "1.1.1.1",
