@@ -11,7 +11,7 @@
     "settings": {
       "vnext": [
       {
-        "address": "media-sg-vmess01.tanainai.net",
+        "address": "media-hk-vmess01.tanainai.net",
         "port": 8880,
         "users": [
         {
